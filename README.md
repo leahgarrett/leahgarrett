@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Favourite local Melbourne meetups
-These meetup are all super welcoming and supportive. Listed in no particular order:
+These meetups are all super welcoming and supportive. Listed in no particular order:
 
 Women Coders Melbourne <br />
 https://www.meetup.com/women-coders/
