@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ## Favourite local Melbourne meetups
+These meetup are all super welcoming and supportive. Listed in no particular order:
 
-*  Women Coders Melbourne 
-   https://www.meetup.com/women-coders/
-   
-*  Tech Leading Ladies 
+Women Coders Melbourne <br />
+https://www.meetup.com/women-coders/
+
+Tech Leading Ladies<br />
    https://www.meetup.com/tech-leading-ladies/
 
-*  Golang Melbourne
+DDD Melbourne by night<br />
+   https://www.meetup.com/ddd-melbourne-by-night/
+
+Golang Melbourne<br />
    https://www.meetup.com/golang-mel/
