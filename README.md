@@ -1,4 +1,4 @@
-## Hello World! 👋
+# Hello World! 👋
 
 <!--
 **leahgarrett/leahgarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,10 +22,19 @@ Women Coders Melbourne <br />
 https://www.meetup.com/women-coders/
 
 Tech Leading Ladies<br />
-   https://www.meetup.com/tech-leading-ladies/
+https://www.meetup.com/tech-leading-ladies/
 
 DDD Melbourne by night<br />
-   https://www.meetup.com/ddd-melbourne-by-night/
+https://www.meetup.com/ddd-melbourne-by-night/
 
 Golang Melbourne<br />
-   https://www.meetup.com/golang-mel/
+https://www.meetup.com/golang-mel/
+
+<br />  
+
+## Connect with me
+LinkedIn<br />
+https://www.linkedin.com/in/leahgarrett/
+
+Blog<br />
+https://leahgarrett.dev/
