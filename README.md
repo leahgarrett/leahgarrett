@@ -32,7 +32,10 @@ https://www.meetup.com/golang-mel/
 
 <br />  
 
-## Connect with me
+## See What I’m Up To
+Check out my latest projects, writing, and community work — and feel free to connect on LinkedIn.
+
+
 LinkedIn<br />
 https://www.linkedin.com/in/leahgarrett/
 
