@@ -39,5 +39,3 @@ Check out my latest projects, writing, and community work — and feel free to c
 LinkedIn<br />
 https://www.linkedin.com/in/leahgarrett/
 
-Blog<br />
-https://leahgarrett.dev/
